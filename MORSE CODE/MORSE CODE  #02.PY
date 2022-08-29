@@ -1,3 +1,4 @@
+#*************** STILL WORKING (NOT COMPLETE)***************#
 from ast import Break
 from tkinter.ttk import Separator
 ch1=input("Enter 1 for translating phrase to morse code\nEnter 2 for translating morse code to phrase")
